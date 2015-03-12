@@ -1,0 +1,5 @@
+# emacs auto-saves
+*~
+# Python binaries
+*.pyc
+__pycache__
